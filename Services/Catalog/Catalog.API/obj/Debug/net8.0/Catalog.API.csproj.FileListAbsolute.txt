@@ -54,3 +54,11 @@ D:\Projects\ASP.net\ECommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\Zstd
 D:\Projects\ASP.net\ECommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
 D:\Projects\ASP.net\ECommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
 D:\Projects\ASP.net\ECommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\Projects\ASP.net\ECommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\Data\SeedData\brands.json
+D:\Projects\ASP.net\ECommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\Data\SeedData\products.json
+D:\Projects\ASP.net\ECommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\Data\SeedData\types.json
+D:\Projects\ASP.net\ECommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\AutoMapper.dll
+D:\Projects\ASP.net\ECommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\MediatR.dll
+D:\Projects\ASP.net\ECommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\Projects\ASP.net\ECommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Projects\ASP.net\ECommerce\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.sourcelink.json

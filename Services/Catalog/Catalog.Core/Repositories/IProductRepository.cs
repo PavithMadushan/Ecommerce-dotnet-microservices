@@ -14,7 +14,7 @@ namespace Catalog.Core.Repositories
 
         Task<IEnumerable<Product>> GetProductsByName(string name);
 
-        Task<IEnumerable<Product>> GetProductsByBrand(string name);
+        Task<IEnumerable<Product>> GetProductsByBrand(string brandName);
 
         Task<Product> CreateProduct(Product product);
 

@@ -10,3 +10,4 @@ D:\Projects\ASP.net\Ecommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\ref
 D:\Projects\ASP.net\Ecommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.pdb
 D:\Projects\ASP.net\Ecommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\ref\Catalog.Core.dll
 D:\Projects\ASP.net\Ecommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.csproj.AssemblyReference.cache
+D:\Projects\ASP.net\ECommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.sourcelink.json
